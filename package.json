@@ -1,0 +1,45 @@
+{
+  "name": "languages-aliases",
+  "version": "1.0.0",
+  "description": "Aliases for Programing Languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "fix": "eslint --fix index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horosgrisa/languages-aliases.git"
+  },
+  "keywords": [
+    "language",
+    "lang",
+    "lang-aliases",
+    "language-aliases",
+    "alias",
+    "aliases"
+  ],
+  "author": "Grigorii Horos",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/horosgrisa/languages-aliases/issues"
+  },
+  "homepage": "https://github.com/horosgrisa/languages-aliases#readme",
+  "devDependencies": {
+    "@types/mocha": "^5.2.7",
+    "@types/node": "^12.6.2",
+    "eslint": "^6.0.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-standard-jsdoc": "^9.0.0",
+    "eslint-plugin-async-await": "0.0.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-jsdoc": "^15.3.9",
+    "eslint-plugin-no-loops": "^0.3.0",
+    "eslint-plugin-prefer-object-spread": "^1.2.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-security": "^1.4.0",
+    "eslint-plugin-unicorn": "^9.1.1",
+    "marked": "^0.7.0",
+    "mocha": "^6.1.4"
+  }
+}
