@@ -22,6 +22,18 @@
 npm install languages-aliases
 ```
 
+## Usage
+
+This package contains aliases fro programing languages
+
+```js
+const aliases = require('languages-aliases')
+
+console.log(aliases.javascript) // JavaScript
+console.log(aliases.as) // ActionScript
+
+```
+
 ## Run tests
 
 ```sh
