@@ -1,11 +1,11 @@
 {
   "name": "languages-aliases",
-  "version": "1.0.0",
+  "version": "2F.0.0",
   "description": "Aliases for Programing Languages",
   "main": "index.js",
   "scripts": {
     "test": "npm run test",
-    "fix": "eslint --fix index.js"
+    "fix": "eslint --fix index.js converter.js"
   },
   "repository": {
     "type": "git",
@@ -33,7 +33,7 @@
     "eslint-config-standard-jsdoc": "^9.0.0",
     "eslint-plugin-async-await": "0.0.0",
     "eslint-plugin-import": "^2.17.3",
-    "eslint-plugin-jsdoc": "^15.3.9",
+    "eslint-plugin-jsdoc": "^15.4.0",
     "eslint-plugin-no-loops": "^0.3.0",
     "eslint-plugin-prefer-object-spread": "^1.2.1",
     "eslint-plugin-promise": "^4.1.1",
