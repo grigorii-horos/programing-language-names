@@ -449,6 +449,7 @@ module.exports = {
   jq: 'JSONiq',
   'js.erb': 'JavaScript+ERB',
   js: 'JavaScript',
+  javascript: 'JavaScript',
   jsb: 'JavaScript',
   jscad: 'JavaScript',
   jsfl: 'JavaScript',
