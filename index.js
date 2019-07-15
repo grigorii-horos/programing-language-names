@@ -1113,5 +1113,5 @@ module.exports = {
   zone: 'DNS Zone',
   zpl: 'Zimpl',
   zs: 'ZenScript',
-  zsh: 'Shell',
+  zsh: 'Z shell (ZSH)',
 };
