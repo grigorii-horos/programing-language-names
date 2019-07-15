@@ -728,6 +728,7 @@ module.exports = {
   pks: 'PLSQL',
   pl: 'Perl',
   pl6: 'Perl 6',
+  plaintext: 'Plain Text',
   plb: 'PLSQL',
   plist: 'XML',
   plot: 'Gnuplot',
