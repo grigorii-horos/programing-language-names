@@ -27,19 +27,19 @@
   "homepage": "https://github.com/horosgrisa/languages-aliases#readme",
   "devDependencies": {
     "@types/mocha": "^5.2.7",
-    "@types/node": "^12.6.2",
-    "eslint": "^6.0.0",
+    "@types/node": "^12.6.8",
+    "eslint": "^6.1.0",
     "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-config-standard-jsdoc": "^9.0.0",
+    "eslint-config-standard-jsdoc": "^9.2.0",
     "eslint-plugin-async-await": "0.0.0",
-    "eslint-plugin-import": "^2.17.3",
-    "eslint-plugin-jsdoc": "^15.4.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsdoc": "^15.7.1",
     "eslint-plugin-no-loops": "^0.3.0",
     "eslint-plugin-prefer-object-spread": "^1.2.1",
     "eslint-plugin-promise": "^4.1.1",
     "eslint-plugin-security": "^1.4.0",
-    "eslint-plugin-unicorn": "^9.1.1",
+    "eslint-plugin-unicorn": "^10.0.0",
     "marked": "^0.7.0",
-    "mocha": "^6.1.4"
+    "mocha": "^6.2.0"
   }
 }
