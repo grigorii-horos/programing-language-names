@@ -1,33 +1,30 @@
 {
-  "name": "language-aliases",
+  "name": "programing-language-names",
   "version": "2.0.7",
-  "description": "Aliases for Programing Languages",
+  "description": "Names for Programing Languages",
   "main": "index.js",
   "scripts": {
     "test": "true",
-    "fix": "eslint --fix index.js converter.js"
+    "fix": "eslint --fix index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/horosgrisa/languages-aliases.git"
+    "url": "git+https://github.com/horosgrisa/programing-language-names.git"
   },
   "keywords": [
     "language",
     "lang",
-    "lang-aliases",
-    "language-aliases",
-    "alias",
-    "aliases"
+    "names",
+    "lang-names",
+    "language-names",
   ],
   "author": "Grigorii Horos",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/horosgrisa/languages-aliases/issues"
+    "url": "https://github.com/horosgrisa/programing-language-names/issues"
   },
-  "homepage": "https://github.com/horosgrisa/languages-aliases#readme",
+  "homepage": "https://github.com/horosgrisa/programing-language-names#readme",
   "devDependencies": {
-    "@types/mocha": "^5.2.7",
-    "@types/node": "^12.6.8",
     "eslint": "^6.1.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-config-standard-jsdoc": "^9.2.0",
@@ -39,7 +36,6 @@
     "eslint-plugin-promise": "^4.1.1",
     "eslint-plugin-security": "^1.4.0",
     "eslint-plugin-unicorn": "^10.0.0",
-    "marked": "^0.7.0",
     "mocha": "^6.2.0"
   }
 }
