@@ -1,6 +1,6 @@
 {
-  "name": "languages-aliases",
-  "version": "2.0.5",
+  "name": "language-aliases",
+  "version": "2.0.7",
   "description": "Aliases for Programing Languages",
   "main": "index.js",
   "scripts": {
